@@ -1,4 +1,4 @@
-# Set-Zoom 
+# Zoom Setter
 #68 user on chrome webstore with rating of 5 star
 <img width="1426" height="156" alt="image" src="https://github.com/user-attachments/assets/86ba2534-8c1f-4e42-b905-58382a309f56" />
 ![Screenshot 2025-10-26 224535](https://github.com/user-attachments/assets/4f29d9ba-64a6-445f-9f50-4b4c773b86b5)
