@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Zoom Setter",
+  "version": "2.0",
+  "description": "Set default zoom levels for each website.",
+  "permissions": ["storage", "tabs"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+  },
+  
+  "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+  },
+  "background": {
+      "service_worker": "bg.js"
+  }
+}
